@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td align="center">💻 <b>Software Developer</b></td>
+    <td align="center">💻 <b>Tech Learner</b></td>
     <td align="center">📍 <b>New Delhi, India</b></td>
   </tr>
 </table>
