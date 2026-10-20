@@ -1,9 +1,7 @@
+<h1 align="center">Hi 👋, I'm Natwar</h1>
+<p align="center"><em>B.Tech CSE Undergraduate</em></p>
 
-<p align="center">
-  <b>Natwar</b>
-</p>
 ---
-
 ## 👨‍💻 About Me
 
 <table>
@@ -12,8 +10,8 @@
     <td align="center">📍 <b>New Delhi, India</b></td>
   </tr>
 </table>
----
 
+---
 ## ⚡ Tech Stack
 
 <p align="center">
